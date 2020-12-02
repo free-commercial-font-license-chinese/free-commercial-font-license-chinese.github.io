@@ -36,7 +36,7 @@ FCFL 允许以本授权释出的字型只可以在下列个人以及商业活动
 
 9. “复制和其他剥削方式” (reproduction and other exploitation) 应当包括复制、转让、分发、租赁、公共传播、展示、展览、改编和任何其他剥削方式。
 
-10. “SIL 开源字型授权” (SIL Open Font Licese, SIL OFL) 指由 SIL 国际针对字型以及相关软件所设计的免费，开发及开源授权，发布于 https://scripts.sil.org/OFL。
+10. “SIL 开源字型授权” (SIL Open Font Licese, SIL OFL) 指由 SIL 国际针对字型以及相关软件所设计的免费，开放及开源授权，发布于 https://scripts.sil.org/OFL。
 
 第二章．版权声明
 字型软件是其“作者”和／或“版权持有者”的知识产权，前提是该软件是原创软件，并且受世界各地的版权法保护。
